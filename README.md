@@ -1,4 +1,8 @@
+<p align="center">
+
 # 🏛️ Agora AI - 超级西方哲学 AI 平台
+
+> 🚧 **项目状态：暂停开发** — 概念原型已完成，因研究方向调整暂时搁置。
 
 **创建时间**: 2026-02-25  
 **维护者**: 勇哥 + 喵妹 🐱  
@@ -215,12 +219,6 @@ Agora-AI/
 ## 📄 许可证
 
 MIT License
-
----
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=leoxmrsh007/Agora-AI&type=Date)](https://star-history.com/#leoxmrsh007/Agora-AI&Date)
 
 ---
 
